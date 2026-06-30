@@ -1,0 +1,82 @@
+# הגן של מיקה — Generative Engine Optimization Map
+
+> A private kindergarten seeking to market itself to parents of young children. The business is in the early childhood education sector and aims to attract new families through a professional and welcoming online presence.
+
+---
+
+## Pages
+
+### בית
+https://-4aab0942.zappy5.app
+מחפשים גן פרטי לגיל הרך שמעניק לילדכם חום, ביטחון והתפתחות יצירתית? הצטרפו למשפחת הגן של מיקה, שם כל יום הוא הרפתקה חדשה של למידה, משחק וצמיחה בסביבה אוהבת ומקצועית. מקום פנוי מחכה לכם!
+
+### אודות
+https://-4aab0942.zappy5.app/about
+מה הופך את הגן של מיקה לבחירה המושלמת עבור המשפחה שלכם? היכנסו להכיר את הצוות המסור, החזון החינוכי והאהבה הענקית שמזינה כל רגע בגן הפרטי שלנו. בואו לראות איך מגדלים ילדים מאושרים.
+
+### שירותים
+https://-4aab0942.zappy5.app/services
+מעבר לשמיכה חמה וארוחה טעימה: גלו את מגוון תוכניות ההעשרה הייחודיות בגן של מיקה, ממוזיקה ותנועה ועד חקירה מדעית מותאמת לקטנטנים. כל מסלול מעוצב להצית את הדמיון ולבנות ביטחון עצמי. הרשמה פתוחה עכשיו!
+
+### צור קשר
+https://-4aab0942.zappy5.app/contact
+מוכנים להעניק לילדכם את המתנה הכי גדולה? מלאו את הפרטים בטופס צור קשר, התקשרו אלינו או קבעו ביקור חווייתי בגן של מיקה. אנחנו כאן לענות על כל שאלה, להרגיע כל חשש, ולפתוח דלת לעולם של אפשרויות.
+
+### תודה שפניתם אלינו
+https://-4aab0942.zappy5.app/thank-you
+הגן של מיקה - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-4aab0942.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-4aab0942.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-4aab0942.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-4aab0942.zappy5.app/contact
+- Endpoint: https://-4aab0942.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הגן של מיקה
+A private kindergarten seeking to market itself to parents of young children. The business is in the early childhood education sector and aims to attract new families through a professional and welcoming online presence.
+
+## Target Audience
+- הורים לילדים בגיל גן
+- הורים עובדים במקצועות חופשיים
+- הורים טריים לילד ראשון
+
+## Industry
+Private Kindergarten / Early Childhood Education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-4aab0942.zappy5.app/sitemap.xml
+- Robots: https://-4aab0942.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-4aab0942.zappy5.app/llms-full.txt
